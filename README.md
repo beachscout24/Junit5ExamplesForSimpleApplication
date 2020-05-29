@@ -11,4 +11,6 @@
 <li>TestInfo and TestReporting for Logging beforeEach Method</li>
 </ul>
 
+<p>If using Intellij IDE to get the display names for the uint tests to show in the console, run the tests as Intellij tests not gradle tests</p>
+<p>Running tests as gradle tests, gradlew test, shows the display names in the junit reports and creates the Jacoco code coverage reports</p>
 <footer>Copyright &copy; 2020 Eric Clarke</footer>

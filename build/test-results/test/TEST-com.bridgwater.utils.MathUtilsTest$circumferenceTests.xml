@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgwater.utils.MathUtilsTest$circumferenceTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-05-29T23:54:12" hostname="DESKTOP-41B375O" time="0.076">
+  <properties/>
+  <testcase name="testComputeCircleArea(Integer)[1]" classname="com.bridgwater.utils.MathUtilsTest$circumferenceTests" time="0.055"/>
+  <testcase name="testComputeCircleArea(Integer)[2]" classname="com.bridgwater.utils.MathUtilsTest$circumferenceTests" time="0.004"/>
+  <testcase name="testComputeCircleArea(Integer)[3]" classname="com.bridgwater.utils.MathUtilsTest$circumferenceTests" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

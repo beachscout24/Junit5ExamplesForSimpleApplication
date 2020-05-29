@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgwater.utils.MathUtilsTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-05-29T21:15:30" hostname="DESKTOP-41B375O" time="0.102">
+<testsuite name="com.bridgwater.utils.MathUtilsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-05-29T23:54:12" hostname="DESKTOP-41B375O" time="0.121">
   <properties/>
-  <testcase name="testDivideMethod()" classname="com.bridgwater.utils.MathUtilsTest" time="0.066"/>
-  <testcase name="testComputeCircleArea()" classname="com.bridgwater.utils.MathUtilsTest" time="0.005"/>
-  <testcase name="testMultiplyMethod()" classname="com.bridgwater.utils.MathUtilsTest" time="0.004"/>
-  <testcase name="testDivideByZeroMethod()" classname="com.bridgwater.utils.MathUtilsTest" time="0.015"/>
-  <testcase name="testSubtractMethod()" classname="com.bridgwater.utils.MathUtilsTest" time="0.003"/>
-  <system-out><![CDATA[Initializing Tests
-Destroying Tests
-]]></system-out>
+  <testcase name="testMultiplyMethod()" classname="com.bridgwater.utils.MathUtilsTest" time="0.121"/>
+  <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

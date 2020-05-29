@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgwater.utils.MathUtilsTest$AdditionTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-05-29T21:15:30" hostname="DESKTOP-41B375O" time="0.02">
+<testsuite name="com.bridgwater.utils.MathUtilsTest$AdditionTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-05-29T23:54:13" hostname="DESKTOP-41B375O" time="0.016">
   <properties/>
-  <testcase name="testAddMethod()" classname="com.bridgwater.utils.MathUtilsTest$AdditionTest" time="0.008"/>
-  <testcase name="testAddNegativeNumbersMethod()" classname="com.bridgwater.utils.MathUtilsTest$AdditionTest" time="0.008"/>
+  <testcase name="testAddMethod()" classname="com.bridgwater.utils.MathUtilsTest$AdditionTest" time="0.004"/>
+  <testcase name="testAddNegativeNumbersMethod()" classname="com.bridgwater.utils.MathUtilsTest$AdditionTest" time="0.007"/>
+  <testcase name="testAddPositiveAndNegativeNumbersMethod()" classname="com.bridgwater.utils.MathUtilsTest$AdditionTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

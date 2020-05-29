@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgwater.utils.MathUtilsTest$SubtractionTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-05-29T23:54:13" hostname="DESKTOP-41B375O" time="0.008">
+  <properties/>
+  <testcase name="testAddNegativeNumbersMethod()" classname="com.bridgwater.utils.MathUtilsTest$SubtractionTests" time="0.002"/>
+  <testcase name="testSubtractMethod()" classname="com.bridgwater.utils.MathUtilsTest$SubtractionTests" time="0.002"/>
+  <testcase name="testSubtractPostiveAndNegativeNumbersMethod()" classname="com.bridgwater.utils.MathUtilsTest$SubtractionTests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
